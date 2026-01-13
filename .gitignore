@@ -2,3 +2,6 @@
 
 # Data files
 data/
+
+# CSV outputs / submissions
+*.csv
